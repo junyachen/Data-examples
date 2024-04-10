@@ -1,6 +1,6 @@
 # GossipCop-LLM
 
-Download dataset from this link: [Google Drive](https://drive.google.com/drive/folders/1YbT-1NsnGt3CYoVMqmcixtXuFbpcPUTo?usp=sharing)
+Download dataset from this link: [Google Drive](https://drive.google.com/drive/folders/11okt9IRDxXgfTr7Ae1wxl9CHZC1PphhC?usp=sharing)
 
 # Introduction
 
@@ -40,7 +40,7 @@ The statistics for each task:
 
 We also download the related images of the GossipCop dataset. We remove the invalid images. 
 
-The image files are also in the Google Drive link. Please refer to the **top_img.zip** file. 
+Please refer to the **top_img.zip** file. 
 
 The name rule of the image is `{news_id}_top_img.png`, such as `gossipcop-541230_top_img.png`. 
 
