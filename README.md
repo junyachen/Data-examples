@@ -47,7 +47,7 @@ The name rule of the image is `{news_id}_top_img.png`, such as `gossipcop-541230
 Each task has a field named `has_top_img` to indicate whether the news has an image. 
 `1` mean the news has an image, `0` mean the news does not have an image.
 
-For task `Integration-based Fake` and `Integration-based Legitimate`, each date is the integration of a pair of news. 
+For task `Integration-based Fake` and `Integration-based Legitimate`, each data is the integration of a pair of news. 
 Therefore, the `has_top_img` field is equal to `1` if both news have images, otherwise, it is equal to `0`.
 
 ## Style-based Fake
