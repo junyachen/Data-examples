@@ -40,7 +40,7 @@ The statistics for each task:
 
 We also download the related images of the GossipCop dataset. We remove the invalid images. 
 
-Please refer to the **top_img.zip** file. 
+Please refer to the **top_img** folder. 
 
 The name rule of the image is `{news_id}_top_img.png`, such as `gossipcop-541230_top_img.png`. 
 
