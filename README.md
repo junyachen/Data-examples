@@ -50,7 +50,7 @@ Each task has a field named `has_top_img` to indicate whether the news has an im
 For task `Integration-based Fake` and `Integration-based Legitimate`, each data is the integration of a pair of news. 
 Therefore, the `has_top_img` field is equal to `1` if both news have images, otherwise, it is equal to `0`.
 
-**Our dataset don't have SOCIAL NETWORK (twitter) information!!! **
+**Our dataset don't have SOCIAL NETWORK (twitter) information!!!**
 
 ## Style-based Fake
 
