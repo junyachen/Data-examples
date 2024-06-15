@@ -1,6 +1,6 @@
 # GossipCop-LLM
 
-Download dataset from this link: [Google Drive](https://drive.google.com/drive/folders/1rLrh5x5UlYskfbhhVyz523MKgmCDyuX2?usp=sharing)
+Download datasets from this link: [Google Drive](https://drive.google.com/drive/folders/1rLrh5x5UlYskfbhhVyz523MKgmCDyuX2?usp=sharing)
 
 Download images from this link: [Google Drive](https://drive.google.com/drive/folders/11okt9IRDxXgfTr7Ae1wxl9CHZC1PphhC?usp=sharing)
 
@@ -16,9 +16,9 @@ We did some preprocessing:
 |   v2    |  having “title”  |   14928    | 4706 | 19634 |
 |   v3    | in proper length |   11945    | 3784 | 15729 |
 
-We use v3 to do further processing.
+We use v3 to do further processing. (refer to **gossipcop_v3_origin.json**)
 
-We designed 7 ways to generate news.
+We designed 6 ways to generate news.
 
 - [Style-based Fake](#style-based-fake)
 - [Content-based Fake](#content-based-fake)
@@ -41,8 +41,6 @@ The statistics for each task:
 | Integration-based Legitimate |  5926  | 
 
 We also download the related images of the GossipCop dataset. We remove the invalid images. 
-
-Please refer to the **top_img** folder. 
 
 The name rule of the image is `{news_id}_top_img.png`, such as `gossipcop-541230_top_img.png`. 
 
